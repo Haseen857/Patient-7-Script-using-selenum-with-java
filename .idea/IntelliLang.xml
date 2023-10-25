@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GitIgnore" injector-id="java">
+      <display-name>System.setProperties (java.lang)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setProperties").withParameters("java.util.Properties").definedInClass("java.lang.System"))]]></place>
+    </injection>
+  </component>
+</project>
